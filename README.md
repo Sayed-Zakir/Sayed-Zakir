@@ -1,10 +1,10 @@
 ### Hi there 👋
 
--🔭 I’m currently working on something cool
--👯 I’m looking to collaborate on Data Analytics project
--🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on something cool
+- 👯 I’m looking to collaborate on Data Analytics project
+- 🌱 I’m currently learning Data Science
 - 💬 Ask me about anything
--😄 I love to Code
+- 😄 I love to Code
 <!--
 **Sayed-Zakir/Sayed-Zakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
