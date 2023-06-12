@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something cool
-- 👯 I’m looking to collaborate on Data Analytics project
-- 🌱 I’m currently learning Data Science
-- 💬 Ask me about anything
+- 👯 I’m looking for Full Time opportuinities
+- 🔭 I’m currently working on cool Python projects
+- 🌱 I’m upskilling myself everyday
 - 😄 I love to Code
+- 💬 Ask me about anything
+- - 📫 Mail me at sazakir22@gmail.com to reach me out
+
 <!--
 **Sayed-Zakir/Sayed-Zakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
