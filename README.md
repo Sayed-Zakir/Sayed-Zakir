@@ -5,7 +5,7 @@
 - 🌱 I’m upskilling myself everyday
 - 😄 I love to Code
 - 💬 Ask me about anything
-- - 📫 Mail me at sazakir22@gmail.com to reach me out
+- 📫 Mail me at sazakir22@gmail.com to reach me out
 
 <!--
 **Sayed-Zakir/Sayed-Zakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
